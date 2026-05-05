@@ -15,3 +15,8 @@ import random
 import logging
 
 
+from PIL import Image, ImageOps, ImageSequence
+from PIL.PngImagePlugin import PngInfo
+
+
+
