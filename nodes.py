@@ -18,5 +18,9 @@ import logging
 from PIL import Image, ImageOps, ImageSequence
 from PIL.PngImagePlugin import PngInfo
 
+import numpy as np
+import safetensors.torch
+
+
 
 
